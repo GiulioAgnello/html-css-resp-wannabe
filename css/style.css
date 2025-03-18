@@ -167,6 +167,7 @@ img {
 
   .text-center {
     font-size: 3rem;
+    margin-bottom: 0px;
   }
 
   .why-us .col-left {
@@ -176,5 +177,11 @@ img {
     width: 100%;
     font-size: 1rem;
     padding-top: 100px;
+  }
+
+  .why-us {
+    background-color: #000000;
+    margin-bottom: 0px;
+    padding-top: 3rem;
   }
 }
